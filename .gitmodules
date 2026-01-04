@@ -1,0 +1,3 @@
+[submodule ".cunzhi-knowledge"]
+	path = .cunzhi-knowledge
+	url = https://github.com/kexin94yyds/cunzhi-knowledge.git
